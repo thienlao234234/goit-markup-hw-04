@@ -70,7 +70,7 @@
 	font-family: "Raleway", sans-serif;
 	font-weight: 800;
 	font-size: 18px;
-	line-height: 1.11;
+	line-height: 1.17;
 	letter-spacing: 0.03em;
 	text-transform: uppercase;
 	color: var(--logo-txt-color);
@@ -254,7 +254,7 @@
   
 	font-weight: 700;
 	font-size: 36px;
-	line-height: 1.1;
+	line-height: 1.11;
 	letter-spacing: 0.02em;
 	text-transform: capitalize;
 	color: var(--secondary-txt-color);
