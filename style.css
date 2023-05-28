@@ -45,7 +45,10 @@
 	width: 1158px;
 	margin: 0 auto;
 	padding: 0 15px;
-  } 
+  }
+  
+  /* Heder */
+  
   .page-header {
 	border-bottom: 1px solid #e7e9fc;
 	box-shadow: 0px 2px 1px rgba(46, 47, 66, 0.08),
@@ -55,11 +58,13 @@
   .header-container {
 	display: flex;
   }
+  
   .page-nav {
 	display: flex;
 	margin-right: auto;
 	align-items: center;
   }
+  
   .logo {
 	margin-right: 76px;
 	font-family: "Raleway", sans-serif;
@@ -131,6 +136,9 @@
   .contact-link:focus {
 	color: var(--active-color);
   }
+  
+  /* Hero */
+  
   .main-title {
 	display: block;
 	margin-bottom: 48px;
@@ -151,7 +159,6 @@
 	margin-left: auto;
 	margin-right: auto;
 	max-width: 1440px;
-	line-height: 1.11;
   
 	background-color: var(--dark-bg-color);
 	background-image: linear-gradient(
@@ -162,14 +169,6 @@
 	background-repeat: no-repeat;
 	background-position: center;
 	background-size: cover;
-  }
-  .icon {
-	display: inline-block;
-	width: 1em;
-	height: 1em;
-	stroke-width: 0;
-	stroke: currentColor;
-	fill: currentColor;
   }
   
   .order-serv-btn {
